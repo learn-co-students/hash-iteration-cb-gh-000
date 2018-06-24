@@ -2,8 +2,7 @@
 ## Overview
 
 We'll use iteration to access and manipulate data from hashes.
-
-## Objectives
+b
 
 1. Distinguish iterating over arrays from iterating over hashes.
 1. Use `#each` to iterate over a hash.
